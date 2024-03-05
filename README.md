@@ -24,7 +24,9 @@ Imagine your network is like a fortress, and the firewall is the gatekeeper. By 
 ## Benefits of Whitelisting on pfSense
 
 **Enhanced Security:** By blocking all traffic by default, you're proactively defending your network against unauthorized access and potential security threats.
+
 **Reduced Attack Surface:** Whitelisting limits the exposure of your network to potential vulnerabilities, minimizing the risk of exploitation.
+
 **Granular Control:** With pfSense's flexible rule-based system, you have granular control over which types of traffic are permitted, allowing you to tailor your firewall rules to your specific needs.
 
 ## Conclusion
