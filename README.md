@@ -1,6 +1,6 @@
 # pfSense Firewall / Router
 
-![pfsense](https://github.com/rasheedjimoh/pfsense/assets/157264080/885c31b2-d8cf-4bf7-b629-64f1ed7b4251)
+![PFSENSE (1)](https://github.com/rasheedjimoh/pfsense/assets/157264080/f7cc2526-1f31-46bb-ad95-afaef7cd14b8)
 
 ## Introduction
 I'm excited to share a practical guide on configuring firewall rules on pfSense, a robust firewall/router platform, to enhance network security. Specifically, we'll focus on setting up rules to block all traffic by default and then selectively allow only the necessary traffic. This approach, known as whitelisting, is a powerful strategy to minimize the attack surface and ensure that only approved connections are permitted.
@@ -28,6 +28,9 @@ Imagine your network is like a fortress, and the firewall is the gatekeeper. By 
 **Reduced Attack Surface:** Whitelisting limits the exposure of your network to potential vulnerabilities, minimizing the risk of exploitation.
 
 **Granular Control:** With pfSense's flexible rule-based system, you have granular control over which types of traffic are permitted, allowing you to tailor your firewall rules to your specific needs.
+
+![pfsense](https://github.com/rasheedjimoh/pfsense/assets/157264080/885c31b2-d8cf-4bf7-b629-64f1ed7b4251)
+
 
 ## Conclusion
 In conclusion, configuring firewall rules to block all traffic and whitelist only necessary traffic on pfSense is a proactive approach to network security that adds an extra layer of protection to your environment. By following the steps outlined above, you can strengthen your network defenses and mitigate the risks associated with unauthorized access and cyber threats.
